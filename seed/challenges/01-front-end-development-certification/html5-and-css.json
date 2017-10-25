@@ -948,7 +948,7 @@
       ],
       "title": "Add Images to your Website",
       "description": [
-        "You can add images to your website by using the <code>img</code> element, and point to a specific image's URL using the <code>src</code> attribute.",
+        "kamu bisa menambahkan gambar di website dengan menggunakan <code>img</code> element, and point to a specific image's URL using the <code>src</code> attribute.",
         "An example of this would be:",
         "<code>&#60img src=\"https://www.your-image-source.com/your-image.jpg\"&#62</code>",
         "Note that in most cases, <code>img</code> elements are self-closing.",
